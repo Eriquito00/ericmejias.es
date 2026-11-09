@@ -4,6 +4,11 @@
       "source": "/pianoman",
       "destination": "/pianoman/",
       "permanent": true
+    },
+    {
+      "source": "/primero",
+      "destination": "/primero/",
+      "permanent": true
     }
   ],
   "rewrites": [
@@ -14,6 +19,14 @@
     {
       "source": "/pianoman/:path*",
       "destination": "https://pianoman-eriquito00.vercel.app/:path*"
+    },
+    {
+      "source": "/primero/",
+      "destination": "https://primero-tzxm.onrender.com/index.html"
+    },
+    {
+      "source": "/primero/:path*",
+      "destination": "https://primero-tzxm.onrender.com/:path*"
     }
   ]
 }
