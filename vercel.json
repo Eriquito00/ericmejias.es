@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/pianoman",
+      "destination": "https://pianoman-eriquito00.vercel.app/"
+    },
+    {
+      "source": "/pianoman/:path*",
+      "destination": "https://vercel.app*"
+    }
+  ]
+}
