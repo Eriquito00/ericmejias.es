@@ -2,14 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://ericmejiasgamonal.vercel.app/sitemap.xml
-
-# Crawl-delay
-Crawl-delay: 1
-
-# Configuración para LLMs
-LLM-Txt: https://ericmejiasgamonal.vercel.app/llms.txt
-
-# Configuración para IA
-Allow: /$
-Discover: true
+Sitemap: https://ericmejias.es/sitemap.xml

@@ -1,12 +1,15 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/pianoman",
-      "destination": "https://pianoman-eriquito00.vercel.app/"
-    },
+      "destination": "/pianoman/",
+      "permanent": true
+    }
+  ],
+  "rewrites": [
     {
       "source": "/pianoman/:path*",
-      "destination": "https://vercel.app*"
+      "destination": "https://pianoman-eriquito00.vercel.app/:path*"
     }
   ]
 }

@@ -1,5 +1,5 @@
 # Eric Mejias Gamonal - Portfolio Web
-# URL: https://ericmejiasgamonal.vercel.app
+# URL: https://ericmejias.es
 # ABOUT: Portfolio profesional de Eric Mejias Gamonal, desarrollador web full-stack especializado en IA y Big Data.
 
 # Site Name
@@ -13,7 +13,7 @@ Author: Eric Mejias Gamonal
 Author-URL: https://linkedin.com/in/ericmejiasgamonal
 
 # Navigation
-Nav-Home: https://ericmejiasgamonal.vercel.app/
+Nav-Home: https://ericmejias.es/
 
 # Technologies & Skills
 Technologies: React, TypeScript, Node.js, Express, Python, PHP
