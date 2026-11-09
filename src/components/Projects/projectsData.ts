@@ -52,7 +52,7 @@ export const projects: Project[] = [
     year: '2026',
     tags: ['TypeScript', 'Node.js', 'WebSockets', 'JavaScript', 'Render'],
     repoUrl: 'https://github.com/Eriquito00/Primero',
-    liveUrl: 'https://primero-tzxm.onrender.com/',
+    liveUrl: 'https://ericmejias.es/primero/',
   },
   {
     id: 'iabd-notes',
@@ -112,7 +112,7 @@ export const projects: Project[] = [
     year: '2026',
     tags: ['TypeScript', 'DOM Events', 'Touch Events'],
     repoUrl: 'https://github.com/Eriquito00/PianoMan',
-    liveUrl: 'https://pianoman-eriquito00.vercel.app/',
+    liveUrl: 'https://ericmejias.es/pianoman/',
   },
 ];
 
