@@ -8,6 +8,10 @@
   ],
   "rewrites": [
     {
+      "source": "/pianoman/",
+      "destination": "https://pianoman-eriquito00.vercel.app/index.html"
+    },
+    {
       "source": "/pianoman/:path*",
       "destination": "https://pianoman-eriquito00.vercel.app/:path*"
     }
