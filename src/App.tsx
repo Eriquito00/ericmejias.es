@@ -13,7 +13,7 @@ import CertificateModal from './components/CertificateModal';
 import type { Certificate, Project, Theme } from './types/portfolio';
 
 const App = () => {
-  const [theme, setTheme] = useState<Theme>(() => localStorage.getItem('portfolio-theme') === 'light' ? 'light' : 'dark');
+  const [theme, setTheme] = useState<Theme>(() => typeof window !== 'undefined' && localStorage.getItem('portfolio-theme') === 'light' ? 'light' : 'dark');
   const [activeProject, setActiveProject] = useState<Project | null>(null);
   const [activeCertificate, setActiveCertificate] = useState<Certificate | null>(null);
 

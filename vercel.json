@@ -1,5 +1,33 @@
 {
+  "headers": [
+    {
+      "source": "/pianoman/",
+      "headers": [{ "key": "Link", "value": "<https://ericmejias.es/pianoman/>; rel=\"canonical\"" }]
+    },
+    {
+      "source": "/primero/",
+      "headers": [{ "key": "Link", "value": "<https://ericmejias.es/primero/>; rel=\"canonical\"" }]
+    },
+    {
+      "source": "/primero/room/:path*",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    },
+    {
+      "source": "/primero/game/:path*",
+      "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }]
+    }
+  ],
   "redirects": [
+    {
+      "source": "/pianoman/index.html",
+      "destination": "/pianoman/",
+      "permanent": true
+    },
+    {
+      "source": "/primero/index.html",
+      "destination": "/primero/",
+      "permanent": true
+    },
     {
       "source": "/pianoman",
       "destination": "/pianoman/",

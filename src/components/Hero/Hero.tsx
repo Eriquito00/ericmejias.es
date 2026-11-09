@@ -10,6 +10,7 @@ const Hero = () => {
       <div className="hero-container">
         <div className="hero-content">
           <h1 id="hero-title" className="hero-name">Eric Mejias Gamonal</h1>
+          <p className="hero-meta">Eriquito00 · GitHub</p>
 
           <p className="hero-role">{t.hero.role}</p>
 

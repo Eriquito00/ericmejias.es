@@ -1,29 +1,15 @@
-# Eric Mejias Gamonal - Portfolio Web
-# URL: https://ericmejias.es
-# ABOUT: Portfolio profesional de Eric Mejias Gamonal, desarrollador web full-stack especializado en IA y Big Data.
+# Eric Mejias Gamonal — Eriquito00
 
-# Site Name
-Site-Name: Eric Mejias Gamonal
+> Portfolio personal de Eric Mejias Gamonal, desarrollador web con formación en inteligencia artificial y Big Data. Eriquito00 es su alias en GitHub.
 
-# Description
-Description: Portfolio profesional de Eric Mejias Gamonal, desarrollador web full-stack especializado en IA y Big Data. Proyectos con React, Node, PHP, Python y más.
+## Perfil
+- [Portfolio](https://ericmejias.es/): experiencia, formación, tecnologías y proyectos.
+- [GitHub](https://github.com/Eriquito00): repositorios y código de los proyectos.
+- [LinkedIn](https://www.linkedin.com/in/eric-mejias-gamonal/): perfil profesional.
 
-# Author
-Author: Eric Mejias Gamonal
-Author-URL: https://linkedin.com/in/ericmejiasgamonal
+## Proyectos web
+- [PianoMan](https://ericmejias.es/pianoman/): piano interactivo para navegador.
+- [Primero](https://ericmejias.es/primero/): juego de cartas multijugador con WebSockets.
 
-# Navigation
-Nav-Home: https://ericmejias.es/
-
-# Technologies & Skills
-Technologies: React, TypeScript, Node.js, Express, Python, PHP
-AI-Specialization: Inteligencia Artificial, Big Data, Machine Learning
-Development: Full-stack, Frontend, Backend, Databases
-
-# Contact
-Email: ericmejiasgamonal@gmail.com
-Location: Spain
-
-# LLM Configuration
-LLM-Context: Standard
-LLM-Freshness: Daily
+## Contacto
+ericmejiasgamonal@gmail.com

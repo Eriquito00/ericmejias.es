@@ -281,9 +281,9 @@ const spanish: TranslationDictionary = {
   },
   footer: { copyright: "TypeScript + React + ESLint + Vite" },
   seo: {
-    title: "Eric Mejias Gamonal - Portfolio Desarrollador Web",
+    title: "Eric Mejias Gamonal · Desarrollador web | Eriquito00",
     description:
-      "Portfolio de Eric Mejias Gamonal, desarrollador web interesado en IA y Big Data.",
+      "Portfolio de Eric Mejias Gamonal (Eriquito00): desarrollo web, proyectos de código abierto, experiencia y formación en inteligencia artificial y Big Data.",
   },
 };
 
@@ -568,9 +568,9 @@ const catalan: TranslationDictionary = {
   },
   footer: { copyright: "TypeScript + React + ESLint + Vite" },
   seo: {
-    title: "Eric Mejias Gamonal - Portfolio de Desenvolupador Web",
+    title: "Eric Mejias Gamonal · Desenvolupador web | Eriquito00",
     description:
-      "Portfolio d'Eric Mejias Gamonal, desenvolupador web interessat en IA i Big Data.",
+      "Portfolio d'Eric Mejias Gamonal (Eriquito00): desenvolupament web, projectes de codi obert, experiència i formació en intel·ligència artificial i Big Data.",
   },
 };
 
@@ -855,9 +855,9 @@ const english: TranslationDictionary = {
   },
   footer: { copyright: "TypeScript + React + ESLint + Vite" },
   seo: {
-    title: "Eric Mejias Gamonal - Web Developer Portfolio",
+    title: "Eric Mejias Gamonal · Web developer | Eriquito00",
     description:
-      "Portfolio of Eric Mejias Gamonal, web developer interested in AI and Big Data.",
+      "Eric Mejias Gamonal's portfolio (Eriquito00): web development, open-source projects, experience and education in artificial intelligence and Big Data.",
   },
 };
 
